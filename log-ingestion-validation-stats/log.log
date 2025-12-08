@@ -1,0 +1,4 @@
+2025-12-06 10:23:55,123 INFO User 42 logged in
+2025-12-06 10:25:10,991 ERROR Database connection failed
+bad line without enough tokens
+2025-12-06 10:26:02,330 WARN    Disk usage at 90%
